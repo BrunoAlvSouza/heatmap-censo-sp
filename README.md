@@ -11,5 +11,3 @@ Processamento em Python com Pandas e visualização no QGIS, utilizando EPSG:319
 
 📌 Este mapa é independente, não se trata de produto oficial do IBGE.
 
-📷 Veja o resultado abaixo:
-![Mapa de calor](mapa_heatmap_sp.png)
